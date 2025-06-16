@@ -1,5 +1,5 @@
-*.venv
-*.pyc
+.venv
+.pyc
 __pycache__/
-*README.md
-*uv.lock
+README.md
+uv.lock
